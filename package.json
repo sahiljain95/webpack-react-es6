@@ -1,7 +1,7 @@
 {
   "name": "react-webpack-template",
   "version": "1.0.0",
-  "description": "Template for react usage with webpack",
+  "description": "A minimalistic configuration for running webpack with react in es6",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
@@ -10,7 +10,8 @@
   "keywords": [
     "react",
     "webpack",
-    "template"
+    "es6",
+    "basic"
   ],
   "author": "Sahil Jain",
   "license": "ISC",
